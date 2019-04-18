@@ -2,4 +2,4 @@
 
 * Book can be found [here](https://github.com/jakevdp/PythonDataScienceHandbook)
 <br />
-* Github repo can be found [here](https://github.com/jakevdp/PythonDataScienceHandbook)
+* Repo can be found [here](https://github.com/jakevdp/PythonDataScienceHandbook)
